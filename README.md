@@ -1,4 +1,4 @@
-<img width="720" height="382" alt="image" src="https://github.com/user-attachments/assets/dc41108d-4201-4499-93b3-c5742c470c35" /># Make-Custom-Image-from-VM-and-a-VM-from-the-same-image
+# Make-Custom-Image-from-VM-and-a-VM-from-the-same-image
 Creating a custom image in Azure after setting up IIS, and then creating a VM from that image, is a common practice for standardizing deployments and ensuring consistent environments.1 This process typically involves generalizing the source VM to remove machine-specific identifiers.2
 Here's a step-by-step guide:
 **Part 1: Prepare the Source VM and Create the Custom Image**
